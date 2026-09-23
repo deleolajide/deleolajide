@@ -1,5 +1,7 @@
 [![Dele Olajide's Stats](https://github-readme-stats.vercel.app/api?username=deleolajide)](https://github.com/deleolajide/github-readme-stats)
 
+[![Dele Olajide's GitHub stats](https://github-stats-extended.vercel.app/api?username=deleolajide)](https://github.com/stats-organization/github-stats-extended)
+
 <!--
 **deleolajide/deleolajide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
